@@ -75,7 +75,4 @@ I’ll be moving on to:
 
 ---
 
-## 📬 Connect
-If you’d like to check my other projects or connect:
-- **GitHub:** [Aymane-Lazaar](https://github.com/Aymane-Lazaar)
-- **LinkedIn:** [Aymane Lazaar](https://www.linkedin.com/in/aymane-lazaar)
+
